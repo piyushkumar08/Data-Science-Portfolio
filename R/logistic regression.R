@@ -1,17 +1,3 @@
-View(mtcars)
-
-# descriptive stats of the dataset
-summary(mtcars)
-
-# datatypes of the var
-str(mtcars)
-
-# distribution of a var mpg
-quantile(mtcars$mpg)
-
-# 90%ile,95%ile,1%
-quantile(mtcars$mpg,c(0.01,0.9,0.95))
-
 # logistic regression
 
 # import the admission.csv
