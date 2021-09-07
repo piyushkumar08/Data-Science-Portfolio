@@ -5,7 +5,7 @@ Repository containing portfolio of data science projects completed by me for sel
 ## Contents
 
   - __R__
-	  - [ML with Linear Regression]()
+	        - [ML with Linear Regression]()
 		- [ML Logistic Regression]()
 		- [ML Decision Trees and Random Forests]()
 		- [ML with K Nearest Neighbours]()
