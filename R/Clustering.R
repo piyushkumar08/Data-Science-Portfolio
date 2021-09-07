@@ -1,5 +1,5 @@
 #CLUSTERING
-colg <- read.csv("cluster_example.csv", header = TRUE)
+colg <- read.csv("University_Data.csv", header = TRUE)
 
 #Scaling to make our dataset normal i.e mean zero and sd 1 
 #Removing the non-numeric columns
